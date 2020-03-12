@@ -9,8 +9,7 @@ namespace Test
 {
     class Program
     {
-        static void Main(string[] args)
-        {
-        }
+        //Learing with Git
+        //See changes
     }
 }
